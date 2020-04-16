@@ -9,7 +9,7 @@ menu-name: '&8&lMenu mazlíků'
 pet-info-menu-name: '&8&lInformace o mazlíkovi'
 pet-companion-menu-name: '&8&lMazlíčka vložte doprostřed'
 #
-# Base Command (The message that is sent when a player runs /pets).
+# Base Command (The message that is sent when a player runs /pets)..
 #
 pets-message:
 - ''
